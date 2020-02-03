@@ -1,4 +1,4 @@
-<img src="logo.svg" alt="PumaPay Contracts" height="40px">
+<img src="logo.svg" alt="PumaPay Contracts" height="100px">
 
 ## Overview
 
