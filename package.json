@@ -47,7 +47,7 @@
     "coveralls": "^3.0.1",
     "eth-crypto": "^1.5.1",
     "ethereumjs-util": "^6.2.0",
-    "ganache-cli": "6.6.0",
+    "ganache-cli": "6.9.0",
     "ganache-core-coverage": "https://github.com/OpenZeppelin/ganache-core-coverage/releases/download/2.5.3-coverage/ganache-core-coverage-2.5.3.tgz",
     "http-server": "^0.11.1",
     "jasmine-core": "^3.5.0",

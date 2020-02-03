@@ -4,7 +4,7 @@ import "@openzeppelin/contracts/math/SafeMath.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /// @title PumaPay Slit Payment
-/// @notice Contract that splits any funds that are received to different addresses.
+/// @notice The split payment contract splits funds to different addresses.
 /// The split happens on a percentage base and it facilitates both ETH and ERC20 tokens.
 /// For ETH the split happens once the ETH are sent to the smart contract using the fallback method.
 /// For ERC20, the tokens are held by the smart contract and the split needs to be triggered using the `executeSplitPayment()`.

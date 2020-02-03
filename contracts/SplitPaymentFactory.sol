@@ -37,6 +37,10 @@ contract SplitPaymentFactory is Factory {
     /// Public functions
     // ===============================================================================================================
 
+    /// @dev Creates a new split payment smart contract.
+    /// @param _token - Token Address.
+    /// @param _receivers - Array of receiver addresses
+    /// @param _percentages - Array of percentages
     function create(address _token, address[] memory _receivers, uint256[] memory _percentages)
     public
     validAddressArray(_receivers)
