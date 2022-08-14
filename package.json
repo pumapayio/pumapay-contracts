@@ -37,7 +37,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@openzeppelin/contracts": "^2.4.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "bignumber": "1.1.0",
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
